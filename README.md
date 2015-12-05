@@ -1,5 +1,7 @@
 # algo
-Implementation of common algorithms in Go. These are some outcome of my practicing Go.
+Implementation of common algorithms in Go. These are the outcome of my practicing Go. 
+
+Note: I tried to use less packages possible. So you may find very commong library founctions are also implemented in the code, which may be redundant in practice.
 
 # Algorithms
 - LCS: Longest Common Subsequence (lcs.go, lcs_test.go)
